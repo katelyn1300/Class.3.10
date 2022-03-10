@@ -1,0 +1,17 @@
+---
+title: "lecture_26_in_class"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## In Class Work Lecture 26
+1)
+```{r}
+# sample size 100 
+Y <- rnorm(100)
+hist(Y)
+```
+
